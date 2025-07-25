@@ -130,6 +130,6 @@ if __name__ == '__main__':
 
 Running the flask app
 ```
-bash
+```bash
 python3 posture_webstream.py
 ```
