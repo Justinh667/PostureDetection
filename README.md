@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Posture_Detector
 
@@ -132,3 +133,6 @@ Running the flask app
 ```bash
 python3 posture_webstream.py
 ```
+=======
+# PostureDetection
+>>>>>>> 7a8ddca2db968e9d84e8b732d9b2012a567d862c
